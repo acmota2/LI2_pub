@@ -1,0 +1,4 @@
+COISAS A FAZER AGORA:
+
+    !!!!!!!MELHORAR A GESTÃO DE MEMÓRIA!!!!!!!
+    Tentar melhorar a legibilidade;
