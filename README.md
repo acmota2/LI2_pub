@@ -1,21 +1,18 @@
-# li2-2021
+**LI2 20/21**
 
-96834
+Trabalho feito por:
+
 Simão Oliveira Alvim Barroso
-simaobarroso
+**GitHub:** simaobarroso
 
-94870
 Rafael Picão Ferreira Correia
-rafaelcorreia94870
+**GitHub:** rafaelcorreia94870
 
-96060
 Ana Margarida Campos Pires
-0801margarida
+**GitHub:** 0801margarida
 
-81384
 André Coelho Mota
-acmota2
+**GitHub:** acmota2
 
-97257
 João Miguel Ferreira Loureiro
-jmfl27
+**GitHub:** jmfl27
