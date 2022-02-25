@@ -1,6 +1,6 @@
 **LI2 20/21**
 
-Trabalho feito por:
+Trabalho da UC de Laboratórios de Informática II feito por:
 
 Simão Oliveira Alvim Barroso
 **GitHub:** simaobarroso
@@ -16,3 +16,5 @@ André Coelho Mota
 
 João Miguel Ferreira Loureiro
 **GitHub:** jmfl27
+
+Neste trabalho foi pedida a implementação duma _stack machine_ cuja especificação pode ser consultada aqui: (adiconar)
